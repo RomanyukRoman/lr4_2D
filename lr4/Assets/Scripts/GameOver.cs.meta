@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3284f18576e32b344bf9bdb761700f96
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lavaSound: {fileID: 8300000, guid: 22edf5bb110468c4faca45a1e0283fd7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
